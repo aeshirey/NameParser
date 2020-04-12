@@ -3,6 +3,13 @@ name = "NameParser"
 version = "0.1.0"
 authors = ["Adam Shirey <adam.shirey@gmail.com>"]
 edition = "2018"
+description = "A library for parsing person names into their individual components."
+readme = "README.md"
+homepage = "https://github.com/aeshirey/NameParser/"
+repository = "https://github.com/aeshirey/NameParser/"
+license = "MIT"
+license-file = "LICENSE"
+keywords = ["name", "parse", "name-parsing", "person", "human"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
